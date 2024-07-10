@@ -1,4 +1,4 @@
-Finding
+Finding:-
 1/ Order Totals by Product Categories:
 Mountain Bikes recorded the highest order total at $63,500, which is 12,600.00%
 higher than the lowest total from Kids Bikes at $500.
